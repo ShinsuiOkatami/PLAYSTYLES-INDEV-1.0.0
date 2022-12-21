@@ -1,7 +1,7 @@
-# PLAYSTYLES-INDEV-1.0.0
+# PLAYSTYLES-INDEV-v0.0.1
 This repository is for the testing of PLAYSTYLES VR! Feel free to playtest! 
 
-Be sure to download the entire folder above.
+To download the game, go to #releases and download the zip.
 
 To launch the game, connect your VR headset to your PC or Laptop and make sure it is connected through Oculus link, then run the .exe file in the downloaded folder.
 
