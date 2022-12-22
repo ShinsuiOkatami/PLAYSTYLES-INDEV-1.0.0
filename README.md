@@ -1,4 +1,4 @@
-# PLAYSTYLES-INDEV-v0.0.1
+# PLAYSTYLES-INDEV-v0.0.3
 This repository is for the testing of PLAYSTYLES VR! Feel free to playtest! 
 
 To download the game, go to the "Releases" link to the right side of the page, and download the zip.
