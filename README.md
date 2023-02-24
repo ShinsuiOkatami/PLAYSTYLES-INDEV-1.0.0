@@ -1,4 +1,4 @@
-# PLAYSTYLES-INDEV-v0.0.5
+# PLAYSTYLES-INDEV-v0.0.6
 This repository is for the testing of PLAYSTYLES VR! Feel free to playtest! 
 
 WHEN DOWNLOADING A NEW VERSION, BE SURE TO DELETE THE PREVIOUS VERSION INSTALLED ON YOUR HEADSET FIRST.
@@ -16,4 +16,4 @@ When you pick up a gun, you need to use the trigger button on your offhand to gr
 
 Most guns require you racking back a slide or a pump to chamber a bullet. After inserting a magazine, be sure to use the trigger button to pull back the slide.
 
-This game has a bunch of useable magical abilities, abilities of which you can access through the ability wheel. To activate the ability wheel, press the X BUTTON on your LEFT CONTROLLER. From there you can grab on of the 6 shown glowing abilities using the grab button. You can press the X button again to hide the ability wheel. To use an ability, press the trigger button. The ability will disappear, but will reappear in the ability wheel after usage to be used again. There will be a short cooldown between each use of an ability.
+This game has a bunch of useable magical abilities that are casted through gestures: movement based hand motions. You can learn these gestures and abilities in-game.
